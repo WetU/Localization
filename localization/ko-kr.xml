@@ -170,7 +170,7 @@
         <Abnormality Id="ABNORMALITY_INFERNAL_MELODY"
                      String="기염의 선율" />
         <Abnormality Id="ABNORMALITY_SPEED_EVADE_UP"
-                     String="회피 성능&amp;이동 UP" />
+                     String="회피 성능&amp;이동 속도 UP" />
         <Abnormality Id="ABNORMALITY_ALL_RES_ELEMENT_ATTACK"
                      String="속성계 효과 UP" />
         <Abnormality Id="ABNORMALITY_RESUSCITATE"
